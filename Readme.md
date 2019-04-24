@@ -36,7 +36,7 @@ Collapse
 
 tests:
 
-1. prints the numbers from 1 to 100
-2. prints the numbers from 1 to 100 but multiples of 3 are substituted foe 'Fizz'
-3. prints the numbers from 1 to 100 but multiples of 5 that aren't multiples of 3 are substitued for 'Buzz'
-4. prints the numbers from 1 to 100 but multiples of both 5 and 3 are substituted for FizzBuzz
+1. prints the numbers from 1 to 2
+2. prints the numbers from 1 to 3 but multiples of 3 are substituted foe 'Fizz'
+3. prints the numbers from 1 to 6 but multiples of 5 that aren't multiples of 3 are substitued for 'Buzz'
+4. prints the numbers from 1 to 15 but multiples of both 5 and 3 are substituted for FizzBuzz
